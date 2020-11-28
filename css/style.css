@@ -1,11 +1,25 @@
+/*colors
+
+#201E1F Eerie Black
+#FF4000 Red Orange Color Wheel
+#50B2C0 Pacific Blue
+#D6AD58 Sunray
+#D6AD58 Sunglow
+
+*/
+body{
+    background-color: #D6AD58 ;
+    border-width: 2px;
+    border-style: outset;
+    border-color: #FFCA3A;
+    
+}
+
 h1{
     color: #000000;
     text-align: center;
     text-decoration: wavy;
     font-family: 'Dancing Script', cursive;
-    f
 }
-body{
-    background-color: #d6ad58;
-    
-}
+
+
