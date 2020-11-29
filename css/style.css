@@ -99,6 +99,7 @@ h1{
     text-align: center;
     text-decoration: wavy;
     font-family: 'Dancing Script', cursive;
+	white-space: nowrap;
 }
 
 h2{
