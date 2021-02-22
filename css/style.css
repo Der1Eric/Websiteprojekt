@@ -2,16 +2,16 @@
 .colorsamples{
 
 	color: #201E1F /*Eerie Black*/;
-	color: #ff4000 /*Red Orange Color Wheel*/;
+	color: #000000 /*Red Orange Color Wheel*/;
 	color: #50B2C0 /*Pacific Blue*/;
-	color: #D6AD58 /*Sunray*/;
-	color: #FFCA3A /*Sunglow*/;
+	color: #ffffff /*Sunray*/;
+	color: #ffffff /*Sunglow*/;
 
 
 }
 
 body{
-    background-color: #D6AD58 ;
+    background-color: #eedc8d  ;
 	background-image: url("/media/logo-transparent-center-opacity-bg.png");
     background-position: center;
     background-size: auto 100%;
@@ -22,10 +22,8 @@ body{
 
 
 .content{
-    background-color: #D6AD58 ;
-    border-width: 15px;
-    border-style: outset;
-	border-color: #FFCA3A;
+    background-color: #eedc8d ;
+   
 	background-image: url("/media/logo-transparent-center-opacity-bg.png");
     background-position: center;
     background-size: auto 100%;
@@ -68,12 +66,12 @@ body{
 
 .nav-bar {
 	overflow: hidden;
-	background-color: #333;
+	background-color: rgb(0, 0, 0);
   }
   
   .nav-bar a {
 	float: left;
-	color: #ff4000;
+	color: #ffffff;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -81,12 +79,12 @@ body{
   }
   
   .nav-bar a:hover {
-	background-color: #FFCA3A;
+	background-color: #e7c503;
 	color: black;
   }
   
   .nav-bar a.active {
-	background-color: #FFCA3A;
+	background-color: #5f5d5d;
 	color: #333;
   }
 
@@ -175,7 +173,7 @@ h2{
 
 
 .logo span {
-	color: #ff4000;
+	color: #d6d3d2;
 	opacity: 0;
 	transform: translate(-300px, 0) scale(0);
 	animation: revealSlideText .9s forwards;
@@ -189,12 +187,12 @@ h2{
 
 	80% {
 		transform: translate(20px, 0) scale(1);
-		color: #FFCA3A;
+		color: #ffffff;
 	}
 
 	99% {
 		transform: translate(0) scale(1.2);
-		color: #D6AD58;
+		color: #ffffff;
 	}
 
 	100% {
