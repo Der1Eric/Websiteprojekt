@@ -43,11 +43,9 @@ body{
 }
 
 .logosw{
-	height: 45px;
-	width: 3,5em;
-	
-	z-index: 3;
-    
+	padding: 5px;
+	float: right;
+	height: 45px;   
 }
 
 @keyframes revealContentText {
