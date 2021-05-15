@@ -126,6 +126,14 @@ h2{
     text-decoration: wavy;
     font-family: 'Dancing Script', cursive;
 }
+h3{
+	
+	color: #000000;
+    text-align: center;
+	font-size: 1.5em;
+	font-weight: normal;
+
+}
 
 
 .animate span {
