@@ -64,18 +64,28 @@ body{
 }
 
 #impressum {
-	
+	float: unset;
 	overflow: hidden;
 	background-color: #f3e170;
-	box-shadow: 20px 10px 60px 20px ;
-	white-space:nowrap;
-}
+	box-shadow: 5px -14px 50px 6px ;
+	}
+
+	
 table 
 {
 width: 100%;
 text-align: center;
 }
+/* falls du dich fragst was ich hier probiere ich weiß es selber noch nicht probiere mich gerade mit bildern rum XD*/
+figure {
 
+	width: 400px;
+      height: 200px;
+      box-shadow: -10px 10px 20px rgb(0, 0, 0);
+      
+    }
+
+	
 
 
 
