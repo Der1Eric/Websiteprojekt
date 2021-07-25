@@ -243,11 +243,45 @@ h3{
 
 }
 
+.contener3 {
+
+	float:left;
+	margin:25rem; 
+	margin-top:10rem;
+	margin-left:15rem;
+	   border:10px solid #707070;
+	    padding: 1em 0em 0em 0em;
+		 max-width: 500px;
+		 max-height: 250px;
+		 
+}
+
+.contener4 {
+
+	float:right;
+	margin:15rem; 
+	margin-top:40rem;
+	margin-left:-10rem;
+	   border:10px solid #707070;
+	    padding: 1em 0em 0em 0em;
+		 max-width: 500px;
+		 max-height: 450px;
+		 
+}
+
 .wrapper {
 	
     width:100%;
 	display:flex;
 	justify-content: center;
+
+}
+
+.wrapper2 {
+
+	max-width: 400px;
+	display:flex;
+	justify-content: right;
 
 }
 
